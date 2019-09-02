@@ -76,3 +76,5 @@ else
 
 console.log('heads: ' + heads);
 console.log('tails: ' + tails);
+
+// Hello!!
